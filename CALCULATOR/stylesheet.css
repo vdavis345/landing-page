@@ -1,0 +1,193 @@
+/* body{
+    background-color:black;
+} */
+
+/* #numbers{
+    color: blue;
+
+} */
+.jumbotron{
+    background-color: black;
+    color:white;
+}
+
+
+   
+
+#display{
+    background-color: black;
+    color: white; 
+    height: 50px;
+    width: 40%;
+    font-size: 40px;
+}
+#numberButton{
+    color:black;
+font-family: 'crimson' ;
+border-radius: 50% ;
+background-color:red;
+ height: 100px;
+    width: 100px;
+    font-size: 30px;
+}
+
+#operatorButton{
+    color:red;
+font-family: 'crimson';
+border-radius: 50%;
+background-color: black;
+ height: 100px;
+ width: 100px;
+ font-size: 30px;
+}
+
+/* #numberOne{
+color:red;
+font-family: 'crimson';
+border-radius: 50%;background-color: black;
+ height: 10%;
+    width: 10%;
+}
+
+#numberTwo{
+color:red;
+font-family:'crimson';
+border-radius: 50%;background-color: black;
+ height: 10%;
+    width: 10%;
+
+}
+
+
+#numberThree{
+color:red;
+font-family:'crimson';
+border-radius: 50%;background-color: black;
+ height: 10%;
+    width: 10%;
+}
+
+
+#numberFour{
+color:red;
+font-family:'crimson';
+border-radius: 50%;background-color: black;
+ height: 10%;
+    width: 10%;
+}
+
+
+#numberFive{
+color:red;
+font-family:'crimson';
+border-radius: 50%;background-color: black;
+ height: 10%;
+    width: 10%;
+}
+
+
+#numberSix{
+color:red;
+font-family:'crimson';
+border-radius: 50%;background-color: black;
+ height: 10%;
+    width: 10%;
+}
+
+
+#numberSeven{
+color:red;
+font-family:'crimson';
+border-radius: 50%;background-color: black;
+ height: 10%;
+    width: 10%;
+}
+
+
+#numberEight{
+color:red;
+font-family:'crimson';
+border-radius: 50%;background-color: black;
+ height: 10%;
+    width: 10%;
+}
+
+
+#numberNine{
+color:red; 
+font-family:'crimson';
+border-radius: 50%;background-color: black;
+ height: 10%;
+    width: 10%;
+}
+
+
+#multiplyButton{
+    color:red;
+    font-family: 'crimson' bold;
+    border-radius: 50%;background-color:black;
+     height:10%;
+    width: 10%
+}
+
+#equalButton{
+    color:red;
+    font-family: 'crimson' bold;
+    border-radius: 50%;background-color:black;
+     height:10%;
+    width: 10%
+}
+
+#divideButton{
+    color:red;
+    font-family: 'crimson' bold;
+    border-radius: 50%;background-color: black;
+     height:10%;
+    width: 10%
+}
+
+#clearButton{
+    color:red;
+    font-family: 'crimson' bold;
+    border-radius: 50%;background-color: black;
+     height:10%;
+    width: 10%
+}
+
+#plusButton{
+    color:red;
+    font-family: 'crimson' bold;
+    border-radius: 50%;background-color: black;
+     height:10%;
+    width: 10%
+}
+
+#minusButton{
+    color:red;
+    font-family: 'crimson' bold;
+    border-radius: 50%;background-color: black;
+     height:10%;
+    width: 10%
+}
+
+#percentButton{
+    color:red;
+    font-family: 'crimson' bold;
+    border-radius: 50%;background-color: black;
+     height:10%;
+    width: 10%
+}
+
+#numberZero{
+    color:red;
+    font-family:'crimson';
+    border-radius: 50%;background-color: black;
+     height:10%;
+    width: 10%
+}
+
+
+.container2{
+    height: 50%;
+    widt
+} */

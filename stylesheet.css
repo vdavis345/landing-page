@@ -1,0 +1,185 @@
+/* .pic{
+    background: url(./images/Coffee-Beans.jpg) ;
+    height: 600px; 
+    width:100%;
+    background-repeat: no-repeat;
+    margin-right:110%;
+    
+}
+
+.resort{
+    position: absolute;
+    display:grid;
+    grid-template-columns: repeat(3,525px);
+     grid-template-areas: 'left center right'; 
+}
+
+#text{
+    /* grid-area:center; 
+    position: fixed;
+    margin-left: 40%;
+    color:white;
+    font-family: 'Mali', cursive;
+    margin-top:20%;
+}
+
+body{
+    background-color:Black;
+}
+
+#text2{
+    font-family: 'Mali', cursive;
+    color:white;
+}
+
+.dot1{
+    border-radius: 50%;color:yellow ;
+    
+
+}
+
+body{
+    background-color:wheat;
+}
+
+#text{
+    color:yellow;
+    margin-left:5%;
+}
+
+#foot{
+    color:white;
+}
+
+#vinny{
+    color:white;
+    font-family: 'Mali', cursive;
+}
+
+#about{
+    color:white;
+}
+
+#last{
+    color:white;
+}
+#pictures{
+    
+    margin-right:20%;
+    margin-bottom: 100%;
+    
+} */
+
+
+
+
+
+ /* .pic{
+     background: url(./images/brown-background.jpg) ; 
+     height: 600px; 
+    width:100%;
+    background-repeat: no-repeat;
+    margin-right:120%; 
+    
+ } */
+
+.resort{
+    position: absolute;
+    display:grid;
+    grid-template-columns: repeat(3,525px);
+     grid-template-areas: 'left center right'; 
+}
+
+#text{ 
+     grid-area:center;
+    position: fixed;
+    margin-left: 40%; 
+    color:black;
+    font-family: 'Mali', cursive;
+    margin-top:20%;
+}
+
+ body{
+    background-color:Black;
+} 
+
+#text2{
+    font-family: 'Mali', cursive;
+    color:black;
+}
+
+.dot1{
+    border-radius: 50%;color:yellow ;
+    
+
+}
+
+body{
+    
+    background: url(./images/landing-page-examples-770x384.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#text{
+   
+    margin-top:60%;
+    color:purple;
+    font-family: 'Mali', cursive;
+}
+
+#foot{
+    color:white;
+}
+
+#vinny{
+    color:black;
+    font-family: 'Mali', cursive;
+}
+
+#about{
+    color:white;
+}
+
+#last{
+    color:white;
+}
+#pictures{
+    margin-bottom: -7%;
+    margin-left: 9%;
+}  
+/* 
+p{ grid-area:center;
+   
+   
+    color:white;
+    font-family: 'Mali', cursive;
+   font-size: 20px;
+} */
+
+ul{
+    color:black;
+    font-family: 'Mali', cursive;
+   font-size: 20px;
+   margin-right: 50%;
+}
+
+li{
+    color:white;
+    font-family: 'Mali', cursive;
+   font-size: 20px;
+   margin-right: 50%; 
+}
+/* #TIC-TAC{
+    margin-top: -7%;
+    margin-left: 70%;
+}
+#tip-calc-pic{
+    margin-top: -6%;
+    margin-left: 70%;
+}
+
+#CALCULATOR-pic{
+    margin-top: -10%;
+    margin-left:70%;
+} */
